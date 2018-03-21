@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple CD pipeline demo at scale with Jenkins Swarm,Docker Swarm and Goland
 
 
@@ -97,3 +98,6 @@ so after this Github can send webhooks using your external ip and the external p
 
 ## Required :) - Fork it and give it a try
 Just [fork the project](https://github.com/krasi-georgiev/cd-demo) and change the docker hub username at the top of the Jenkinsfile.
+=======
+# jenkins
+>>>>>>> 3e89681b7e7b3db007751a402c69c9752a08283e
